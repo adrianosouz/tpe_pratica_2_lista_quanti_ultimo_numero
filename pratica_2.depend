@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1447525388 source:c:\users\administrador\desktop\pratica_2\pratica_2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1447525012 c:\users\administrador\desktop\pratica_2\pratica_2.h
+
+1447525440 source:c:\users\administrador\desktop\pratica_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449147178 source:h:\codigos_pratica\pratica_2_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449103271 h:\codigos_pratica\pratica_2_lista\pratica_2.h
+
+1449147301 source:h:\codigos_pratica\pratica_2_lista\pratica_2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449147178 source:f:\codigos_pratica\pratica_2_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449103271 f:\codigos_pratica\pratica_2_lista\pratica_2.h
+
+1449147301 source:f:\codigos_pratica\pratica_2_lista\pratica_2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449147178 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_2_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449103271 c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_2_lista\pratica_2.h
+
+1450646925 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_2_lista\pratica_2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449143578 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_2_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
+1449099671 c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_2_lista\pratica_2.h
+
+1450643325 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_2_lista\pratica_2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pratica_2.h"
+
